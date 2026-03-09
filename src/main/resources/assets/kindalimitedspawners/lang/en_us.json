@@ -1,0 +1,7 @@
+{
+  "kindalimitedspawners.configuration.title": "Kinda Limited  Spawners Configs",
+  "kindalimitedspawners.configuration.section.kindalimitedspawners.common.toml": "Kinda Limited  Spawners Configs",
+  "kindalimitedspawners.configuration.section.kindalimitedspawners.common.toml.title": "Kinda Limited  Spawners Configs",
+  "config.kindalimitedspawners.spawner_capacity": "Spawner Capacity",
+  "config.kindalimitedspawners.allow_nether_star_removal": "Allow Nether Star Removal"
+}

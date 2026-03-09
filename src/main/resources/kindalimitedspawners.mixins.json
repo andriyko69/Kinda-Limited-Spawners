@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "io.github.andriyko69.kindalimitedspawners.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BaseSpawnerMixin",
+    "SpawnerBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

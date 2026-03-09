@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "unlimited=false": {
+      "model": "minecraft:block/spawner"
+    },
+    "unlimited=true": {
+      "model": "kindalimitedspawners:block/spawner_unlimited"
+    }
+  }
+}
