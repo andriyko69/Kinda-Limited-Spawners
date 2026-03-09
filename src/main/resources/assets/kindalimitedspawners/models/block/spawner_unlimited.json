@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/spawner",
+  "textures": {
+    "particle": "kindalimitedspawners:block/spawner_unlimited",
+    "all": "kindalimitedspawners:block/spawner_unlimited"
+  }
+}
